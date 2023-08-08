@@ -80,9 +80,7 @@ Typa Type is a website that offers a curated collection of distinctive typograph
 ## 🙏 Acknowledgments
 <a name="acknowledgments"></a>
 
-* [Edamam Food database API](https://developer.edamam.com/food-database-api)
-* [Bodybuilding Protein Calculator](https://www.bodybuilding.com/fun/calpro.htm)
-* [Firebase Github open source code](https://github.com/firebase/)
+* [Google Fonts](https://fonts.google.com)
 
 <br />
 
